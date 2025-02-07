@@ -42,8 +42,8 @@ api_key = 'USE YOUR API KEY'
 
 ### Clone this repository:  
 ```bash
-git clone https://github.com/your-repo-link.git
-cd your-repo-folder
+git clone https://github.com/your-repo-link.git](https://github.com/TamarDufour/Career-Planner.git
+cd CareerPlannerFolder
 ```
 
 ### Notebook Execution Order  
