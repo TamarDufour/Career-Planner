@@ -3,6 +3,9 @@
 **Rachel Dagan | Inbar Miran | Tamar Dufour Dror**  
 **Technion - Israel Institute of Technology**  
 
+![Uploading image.png…]()
+
+
 ## Overview  
 Using Machine Learning models, AI, and other statistical tools, we've created a LinkedIn feature based on LinkedIn data and hiring ads that helps LinkedIn users strategically plan their careers and reach their dream jobs.  
 
