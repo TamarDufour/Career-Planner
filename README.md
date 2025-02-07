@@ -51,7 +51,7 @@ cd CareerPlannerFolder
 
 ### Notebook Execution Order  
 Some notebooks create datasets that are used in other notebooks.  
-All datasets are included in the `datasets` folder.  
+All datasets are included in the `Indeed data` folder.  
 
 In case you want to generate the datasets yourself, we recommend running the notebooks in the following order:  
 
