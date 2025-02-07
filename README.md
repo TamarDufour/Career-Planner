@@ -3,7 +3,7 @@
 **Rachel Dagan | Inbar Miran | Tamar Dufour Dror**  
 **Technion - Israel Institute of Technology**  
 
-![Uploading image.png…]()
+![Career Planner Overview](picture.png)
 
 
 ## Overview  
